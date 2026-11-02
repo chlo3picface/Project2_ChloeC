@@ -155,6 +155,4 @@ rect(x,y-i*40, rectW, rectH)
 fill(0,120, 191, a2)
 rect(x,y-i*40, rectW, rectH)
 end
-
-save('Project2_ChloeChun_Screenshot1.png')
 end
